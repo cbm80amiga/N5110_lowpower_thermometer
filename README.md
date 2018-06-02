@@ -1,7 +1,8 @@
 # N5110_lowpower_thermometer
 Low power Arduino thermometer
+Source code for https://youtu.be/C0AbhEarWSc
 
-This project can work for 500 days using 3xAA/AAA or any lithium cell
+This project can work for 500 days using 3xAA/AAA or any lithium cell at 2000mAh capacity
 
 Features:
 - extremely low power with modded Pro Mini
