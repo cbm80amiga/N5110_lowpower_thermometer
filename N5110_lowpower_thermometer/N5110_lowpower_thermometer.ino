@@ -1,5 +1,6 @@
 /*
- * (c)2018 Pawel A. Hernik
+ * (c)2017-18 Pawel A. Hernik
+ * code for https://youtu.be/C0AbhEarWSc
  */
  
 // *** CONNECTIONS ***
@@ -12,7 +13,7 @@
 // #6 VCC 3.3V
 // #7 LIGHT (not used here)
 // #8 GND
-// thermistor from A0 to VCC or to any digital pin set to HIGH
+// thermistor from A0 to VCC or to any digital pin set to HIGH (to save power)
 // balance resistor 10k from A0 to GND
 
 // CURRENT MEASUREMENTS @ 16MHz:
